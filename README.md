@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadesh Singh</h1>
-<h3 align="center">A passionate MERN Stack FullStack developer from India</h3>
+<h3 align="center">A passionate MEAN/MERN Stack FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadesh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="aadesh-singh" /> </p>
 
