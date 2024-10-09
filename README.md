@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Aadesh Singh</h1>
-<h3 align="center">A passionate MEAN/MERN Stack FullStack developer from India</h3>
+<h3 align="center">A passionate MEAN and MERN Stack FullStack developer (with 2 years of experience) from India</h3>
+<h6 align="center">I am a detail oriented developer who likes to try new things and make experiences.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadesh-singh&label=Profile%20views&color=0e75b6&style=flat" alt="aadesh-singh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadesh-singh" alt="aadesh-singh" /></a> </p>
 
-- 🔭 I’m currently working on **Hedera Blockchain**
+- 🔭 I’m currently working on **MEAN(Angular) and MERN(React)**
 
-- 🌱 I’m currently learning **BLOCKCHAIN**
+- 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aadesh-singh](https://github.com/Aadesh-singh)
+- 🌱 Portfolio: https://aadeshsingh.vercel.app/#intro
+
+- 👨‍💻 All of my projects are available at [[https://github.com/Aadesh-singh]](https://aadeshsingh.vercel.app/#intro)
 
 - 📝 I regularly write Code on [https://leetcode.com/aadesh_code/](https://leetcode.com/aadesh_code/)
 
-- 💬 Ask me about **NODE JS, REACT JS AND BLOCKCHAIN**
+- 💬 Ask me about **NODE JS, REACT JS, Angular 2+, Redux AND BLOCKCHAIN**
 
 - 📫 How to reach me **aadeshsingh146@gmail.com**
 
-- 📄 Know about my experiences [https://aadesh-singh.github.io/Resume/](https://aadesh-singh.github.io/Resume/)
+- 📄 Know about my experiences https://aadeshsingh.vercel.app/#intro
 
 - ⚡ Fun fact **There is always a bigger fish.**
 
